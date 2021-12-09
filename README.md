@@ -1,4 +1,4 @@
-
+### Hi!
 
 <!--
 **fedeaacevedo/fedeaacevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Hola! Mi nombre es Federico y soy desarrollador web Jr. Actualmente estudio Licenciatura en sistemas en la UNLP</h2>
-
-<p>Html, Css y Boostrap</p>
-<p>JavaScript y Vue.js</p>
-<p>Python,Django y Flask</p>
-<p>MySQL y Firebase</p>
-<p>Git y Github</p>
