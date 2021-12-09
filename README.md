@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hola! Mi nombre es Federico y soy desarrollador web Jr. Actualmente estudio Licenciatura en sistemas en la UNlp
+
+-Html, Css, Boostrap
